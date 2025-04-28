@@ -42,7 +42,7 @@
         </Badge>
     </p>
     <p>
-        <Button variant="ghost" title="github" href="https://github.com/">
+        <Button variant="ghost" title="github" href="https://github.com/jgj2/violet">
             <PixelarticonsGithub class="text-xl" alt="github"/>
         </Button>
     </p>
