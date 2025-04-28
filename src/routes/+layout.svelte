@@ -8,8 +8,8 @@
 
 <ModeWatcher />
 <Navbar />
-<main class="place-content-center flex-grow">
-	<div class="flex flex-col w-full items-center text-center p-8 md:px-20">
+<main class="place-content-center flex-grow flex">
+	<div class="flex flex-col w-full items-center text-center p-8 md:px-20 justify-center">
 		{@render children()}
 	</div>
 </main>

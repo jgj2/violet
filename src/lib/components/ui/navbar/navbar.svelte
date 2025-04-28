@@ -60,16 +60,6 @@
                     projects
                 </Button>
                 <Separator />
-                <!--
-                    <Button href="/dotfiles" variant="link" class="text-lg">
-                    dot files
-                </Button>
-                <Separator />
-                <Button href="/vimconfig" variant="link" class="text-lg">
-                vim config
-            </Button>
-            <Separator />
-            -->
                 <Button variant="link" onclick={toggleMode} class="text-lg cursor-pointer">
                     {$mode}
                 </Button>
@@ -77,4 +67,4 @@
         </Sheet.Root>
     </div>
 </nav>
-<Separator />
+<Separator class="h-[4px]" />
